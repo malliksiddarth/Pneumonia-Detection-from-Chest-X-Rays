@@ -111,7 +111,7 @@ Input (150×150×1)
 
 ---
 
-## 📈 Training
+## Training
 
 | Parameter | Value |
 |---|---|
@@ -123,7 +123,7 @@ Input (150×150×1)
 
 ---
 
-## 📊 Evaluation
+## Evaluation
 
 | Metric | Detail |
 |---|---|
